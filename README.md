@@ -1,4 +1,4 @@
-# Vynchronize Bartixxx
+# Vynchronize
 [Access the application here!](https://vynchronize.herokuapp.com/)
 
 ![Vynchronize Screenshot](https://raw.githubusercontent.com/kyle8998/Vynchronize/master/img/screenshot2.PNG)
