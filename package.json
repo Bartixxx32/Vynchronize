@@ -13,9 +13,9 @@
   "author": "Kyle Lim",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "8.2.0",
+    "dotenv": "8.1.0",
     "express": "*",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.13",
     "socket.io": "*",
     "ws": ">=3.3.1"
   },
