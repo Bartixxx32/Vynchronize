@@ -17,7 +17,7 @@
     "express": "*",
     "lodash": "^4.17.21",
     "socket.io": "*",
-    "ws": ">=7.4.3"
+    "ws": ">=7.4.5"
   },
   "bugs": {
     "url": "https://github.com/kyle8998/Vynchronize/issues"
